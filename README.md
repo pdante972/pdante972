@@ -8,9 +8,7 @@
 
 <br/>
 
-<table align="center">
-<tr>
-<td width="60%" valign="top">
+<div align="center">
 
 ### ⚡ About Me
 
@@ -25,14 +23,7 @@ speaks:      Vietnamese, English
 - 🤖 **Discord bots** — Node.js automation & moderation
 - 🧠 Exploring ML fundamentals (KNN, image recognition)
 
-</td>
-<td width="40%" valign="top" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=pdante972&show_icons=true&theme=synthwave&hide_border=true&hide_title=true" width="100%" />
-
-</td>
-</tr>
-</table>
+</div>
 
 <div align="center">
 <img src="https://lanyard-profile-readme.vercel.app/api/587875858279170048?theme=dark&bg=0f0c29&animated=true&hideDiscrim=true" alt="Discord Presence" />
@@ -62,7 +53,7 @@ speaks:      Vietnamese, English
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pdante972&theme=synthwave&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=pdante972&theme=synthwave&hide_border=true" />
 
 <br/>
 
@@ -74,7 +65,7 @@ speaks:      Vietnamese, English
 
 <div align="center">
 
-<img src="https://github-readme-quotes.vercel.app/quote?type=horizontal&theme=radical&border=true&gradient=true" alt="Random dev quote" />
+<img src="https://github-readme-quotes-bay.vercel.app/quote?type=horizontal&theme=radical&border=true&gradient=true" alt="Random dev quote" />
 
 </div>
 

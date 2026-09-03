@@ -31,7 +31,7 @@ currently:   building indie games on GZDoom
 </td>
 <td width="40%" valign="top" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=synthwave&hide_border=true&hide_title=true" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=pdante972&show_icons=true&theme=synthwave&hide_border=true&hide_title=true" width="100%" />
 
 </td>
 </tr>
@@ -41,57 +41,6 @@ currently:   building indie games on GZDoom
 <div align="center">
 <img src="https://lanyard-profile-readme.vercel.app/api/YOUR_DISCORD_ID?theme=dark&bg=0f0c29&animated=true&hideDiscrim=true" alt="Discord Presence" />
 </div>
-
-<br/>
-
-## 🕹️ Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 👹 Hell Industry
-**Short FPS horror survival — GZDoom/UZDoom**
-
-A dieselpunk, WW1-inspired dark fantasy shooter built for stealth-first survival. Armed with only a knife and the devastating *Tank Breaker*, every encounter is a trade-off between silence and firepower.
-
-`GZDoom` `UZDoom` `Pixel Art` `Aseprite`
-
-</td>
-<td width="50%" valign="top">
-
-### 🐟 FishDex
-**Fishing journal & species collection app**
-
-A full technical architecture for a Flutter + Supabase app with PostGIS-powered geolocation, RLS security policies, and an AI fish-recognition pipeline (MobileNetV3 / EfficientNet via FastAPI).
-
-`Flutter` `Supabase` `PostgreSQL` `FastAPI` `ML`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏗️ Community Forum Platform
-**Flarum-based web platform, built from scratch**
-
-Full-stack deployment across Laragon → Oracle Cloud → shared hosting. Handled extension development, SSL/DNS, database migration, performance tuning, and incident response (Cloudflare 521, route conflicts, search indexing).
-
-`PHP` `Flarum` `MySQL` `DevOps`
-
-</td>
-<td width="50%" valign="top">
-
-### 🚨 Disaster Management System
-**Forecasting & emergency response platform**
-
-A system for storm/flood forecasting, landslide & flash-flood risk zones, and coordinated emergency response — including support and resource management for at-risk areas.
-
-`System Design` `GIS` `Emergency Response`
-
-</td>
-</tr>
-</table>
 
 <br/>
 
@@ -117,15 +66,15 @@ A system for storm/flood forecasting, landslide & flash-flood risk zones, and co
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=synthwave&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pdante972&theme=synthwave&hide_border=true" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&area=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pdante972&theme=react-dark&hide_border=true&area=true" width="100%" />
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=discordDark&no-frame=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=pdante972&theme=discordDark&no-frame=true&row=1&column=7" />
 
 </div>
 
@@ -134,13 +83,13 @@ A system for storm/flood forecasting, landslide & flash-flood risk zones, and co
 ## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/pdante972/pdante972/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
 
 <details>
 <summary>⚙️ Enable the snake animation (auto-updates daily via GitHub Actions)</summary>
 
-Create `.github/workflows/snake.yml` in your `YOUR_USERNAME/YOUR_USERNAME` repo:
+Create `.github/workflows/snake.yml` in your `pdante972/pdante972` repo:
 
 ```yaml
 name: Generate Snake
@@ -154,7 +103,7 @@ jobs:
     steps:
       - uses: Platane/snk@v3
         with:
-          github_user_name: YOUR_USERNAME
+          github_user_name: pdante972
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
@@ -174,7 +123,7 @@ jobs:
 <div align="center">
 
 <!-- Requires connecting your Spotify at https://spotify-github-profile.vercel.app -->
-<img src="https://novatorem-YOUR_USERNAME.vercel.app/api/spotify" />
+<img src="https://novatorem-pdante972.vercel.app/api/spotify" />
 
 </div>
 
@@ -182,7 +131,7 @@ jobs:
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=00FF9C&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=pdante972&label=Profile+Views&color=00FF9C&style=for-the-badge" />
 
 <br/><br/>
 

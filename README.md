@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=DANTE&fontSize=75&fontColor=00FF9C&animation=fadeIn&fontAlignY=35&desc=Game%20%7C%20Website%20%7C%20Discord%20Bot%20Developer&descAlignY=55&descSize=18" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=1200&color=00FF9C&center=true&vCenter=true&width=650&lines=Building+games+one+pixel+at+a+time;Crafting+web+platforms+%26+forums;Automating+Discord+with+Node.js;IT+Student+%7C+Vietnam+%F0%9F%87%BB%F0%9F%87%B3" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=1200&color=00FF9C&center=true&vCenter=true&width=650&lines=Building+games+one+pixel+at+a+time;Crafting+web+platforms+%26+forums;Automating+Discord+with+Node.js;Vietnam+%F0%9F%87%BB%F0%9F%87%B3" alt="Typing SVG" />
 
 </div>
 
@@ -15,18 +15,15 @@
 ### ⚡ About Me
 
 ```yaml
-role:        IT Student
 focus:       Game Dev · Web Dev · Discord Bots
 based_in:    Vietnam
 speaks:      Vietnamese, English
-currently:   building indie games on GZDoom
-             & full-stack forum platforms
 ```
 
-- 🎮 Designing and developing **indie games** — from pixel art assets to full game logic
-- 🌐 Building and deploying **web platforms** end-to-end (frontend, backend, hosting, DNS, SSL)
-- 🤖 Writing **Discord bots** in Node.js for moderation, automation & cross-platform integration
-- 🧠 Currently exploring ML fundamentals (KNN, image recognition pipelines)
+- 🎮 **Games** — pixel art assets to full game logic (GZDoom/UZDoom)
+- 🌐 **Web** — full-stack platforms, hosting, DNS, SSL, deployment
+- 🤖 **Discord bots** — Node.js automation & moderation
+- 🧠 Exploring ML fundamentals (KNN, image recognition)
 
 </td>
 <td width="40%" valign="top" align="center">
@@ -69,60 +66,15 @@ currently:   building indie games on GZDoom
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pdante972&theme=react-dark&hide_border=true&area=true" width="100%" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=pdante972&theme=discordDark&no-frame=true&row=1&column=7" />
+<img src="https://ghchart.rshah.org/00FF9C/pdante972" alt="pdante972's contribution chart" width="90%" />
 
 </div>
 
 <br/>
 
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/pdante972/pdante972/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</div>
-
-<details>
-<summary>⚙️ Enable the snake animation (auto-updates daily via GitHub Actions)</summary>
-
-Create `.github/workflows/snake.yml` in your `pdante972/pdante972` repo:
-
-```yaml
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 */6 * * *"
-  workflow_dispatch:
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: pdante972
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-</details>
-
-<br/>
-
-## 🎧 Now Playing
-
 <div align="center">
 
-<!-- Requires connecting your Spotify at https://spotify-github-profile.vercel.app -->
-<img src="https://novatorem-pdante972.vercel.app/api/spotify" />
+<img src="https://github-readme-quotes.vercel.app/quote?type=horizontal&theme=radical&border=true&gradient=true" alt="Random dev quote" />
 
 </div>
 

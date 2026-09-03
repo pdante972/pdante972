@@ -37,9 +37,8 @@ currently:   building indie games on GZDoom
 </tr>
 </table>
 
-<!-- Discord Presence — replace YOUR_DISCORD_ID (enable Developer Mode → right-click your name → Copy User ID) -->
 <div align="center">
-<img src="https://lanyard-profile-readme.vercel.app/api/YOUR_DISCORD_ID?theme=dark&bg=0f0c29&animated=true&hideDiscrim=true" alt="Discord Presence" />
+<img src="https://lanyard-profile-readme.vercel.app/api/587875858279170048?theme=dark&bg=0f0c29&animated=true&hideDiscrim=true" alt="Discord Presence" />
 </div>
 
 <br/>

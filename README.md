@@ -12,6 +12,10 @@
 
 ### ⚡ About Me
 
+</div>
+
+<table align="center"><tr><td>
+
 ```yaml
 focus:       Game Dev · Web Dev · Discord Bots
 based_in:    Vietnam
@@ -23,7 +27,7 @@ speaks:      Vietnamese, English
 - 🤖 **Discord bots** — Node.js automation & moderation
 - 🧠 Exploring ML fundamentals (KNN, image recognition)
 
-</div>
+</td></tr></table>
 
 <div align="center">
 <img src="https://lanyard-profile-readme.vercel.app/api/587875858279170048?theme=dark&bg=0f0c29&animated=true&hideDiscrim=true" alt="Discord Presence" />
